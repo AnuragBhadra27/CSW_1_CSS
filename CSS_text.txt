@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html><head>
+    <style>
+        #para1{
+            color:red;            
+        }
+       <!-- #para2{
+            outline-style:solid;
+            outline-color:chartreuse;
+            outline: width 5px;;
+            border: 2px solid red;
+            
+        } #para3{
+            outline-style:double;
+            outline-color:chartreuse;
+            outline: width 5px;;
+            border: 2px solid red;
+            
+        }
+        #para4{
+            outline-style:groove;
+            outline-color:chartreuse;
+            outline: width 5px;;
+            border: 2px solid red;
+            
+        }
+        #para5{
+            outline-style:inset;
+            outline-color:chartreuse;
+            outline: width 5px;;
+            border: 2px solid red;
+            
+        }#para6{
+            outline-style:ridge;
+            outline-color:chartreuse;
+            outline: width 5px;;
+            border: 2px solid red;
+            
+        }#para7{
+            outline-style:outset;
+            outline-color:chartreuse;
+            outline: width 5px;;
+            border: 2px solid red;
+            
+        }#para8{
+            outline-style:dashed;
+            outline-color:chartreuse;
+            outline: width 5px;;
+            border: 2px solid red;
+            
+        }--!>
+
+    </style><title> CSS Text style </title></head>
+<body>
+    <p id="para1"> This is my boarder </p>
+    <p id="para2"> This is my boarder </p>
+    <p id="para3"> This is my boarder </p>
+    <p id="para4"> This is my boarder </p>
+    <p id="para5"> This is my boarder </p>
+    <p id="para6"> This is my boarder </p>
+    <p id="para7"> This is my boarder </p>
+    <p id="para8"> This is my boarder </p>
+
+    
+
+
+</body>
+</html>
